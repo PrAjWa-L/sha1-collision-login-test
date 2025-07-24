@@ -1,6 +1,6 @@
 import requests
 
-url = "http://verbal-sleep.picoctf.net:50765/impossibleLogin.php"
+url = " " #paste your login page link here.
 pdf1 = "https://shattered.io/static/shattered-1.pdf"
 pdf2 = "https://shattered.io/static/shattered-2.pdf"
 
